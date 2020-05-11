@@ -1,2 +1,2 @@
-# typescript-demo
-A TypeScript demo.
+# TypeScript Demo
+
