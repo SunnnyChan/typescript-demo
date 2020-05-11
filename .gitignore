@@ -49,6 +49,12 @@ Temporary Items
 
 # End of https://www.gitignore.io/api/linux,macos
 
-# NodeJS
-
-node_modules
+######################
+# Node
+######################
+/node/
+node_tmp/
+node_modules/
+npm-debug.log.*
+/.awcache/*
+/.cache-loader/*
